@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BizBot Pro – AI Employees for Solopreneurs</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  </head>
+  <body class="bg-gray-50 text-gray-900">
+    <header class="text-center p-10">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">Hire an AI Employee in 5 Minutes</h1>
+      <p class="text-lg md:text-xl max-w-2xl mx-auto">BizBot Pro gives you ready-to-work AI staff for sales, support, and admin — trained on your business and available 24/7.</p>
+      <form action="https://YOUR_CONVERTKIT_FORM_URL" method="post" class="mt-6 max-w-sm mx-auto">
+        <input type="email" name="email" required placeholder="Enter your email" class="w-full px-4 py-2 border border-gray-300 rounded-md mb-2" />
+        <button type="submit" class="w-full bg-black text-white py-2 rounded-md hover:bg-gray-800">Get Early Access</button>
+      </form>
+      <p class="mt-2 text-sm text-gray-500">🎁 First AI Employee Free for 7 Days</p>
+    </header>
+
+    <section class="bg-white py-12">
+      <div class="max-w-5xl mx-auto px-4">
+        <h2 class="text-2xl font-semibold text-center mb-8">Meet Your Digital Dream Team</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div class="p-6 bg-gray-100 rounded-xl shadow">
+            <h3 class="text-xl font-bold mb-2">👨‍💼 SalesBot</h3>
+            <p>Follows up with leads, answers questions, and helps close deals 24/7.</p>
+          </div>
+          <div class="p-6 bg-gray-100 rounded-xl shadow">
+            <h3 class="text-xl font-bold mb-2">🎧 SupportBot</h3>
+            <p>Instantly responds to customer questions with accurate, friendly support.</p>
+          </div>
+          <div class="p-6 bg-gray-100 rounded-xl shadow">
+            <h3 class="text-xl font-bold mb-2">📅 AdminBot</h3>
+            <p>Handles scheduling, follow-ups, and repetitive admin tasks for you.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="text-center py-6 text-sm text-gray-500">
+      &copy; 2025 BizBot Pro. All rights reserved.
+    </footer>
+  </body>
+</html>
